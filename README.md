@@ -2,6 +2,7 @@ E-Commerce Website
 This is a responsive, multi-page e-commerce website built primarily with HTML and CSS, with a minimal amount of JavaScript used for the hamburger menu functionality.
 
 Features
+
 Responsive Design: The website is fully responsive, ensuring optimal viewing across various devices and screen sizes.
 Multi-Page Layout: Includes essential pages like:
 Home/Index Page: The main landing page.
